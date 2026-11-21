@@ -5,11 +5,10 @@ const themeToggle = document.querySelector(".theme-toggle");
 const themeLabel = document.querySelector(".theme-label");
 
 const categoryNames = {
-  all: "all platforms",
+  all: "all ad platforms",
   retail: "retail media platforms",
   programmatic: "programmatic platforms",
   paid: "paid media platforms",
-  infrastructure: "web and cloud platforms",
 };
 
 function setFilter(category) {

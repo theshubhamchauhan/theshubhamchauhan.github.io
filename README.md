@@ -1,18 +1,17 @@
-# Digital Marketer — Result oriented professional
+# Shubham Chauhan — Digital Marketing Portfolio
 
-> **Good media. Less guesswork.**
+> **Digital marketing, thoughtful by design.**
 
-I bring campaigns, platforms, and the technology behind them together to make
-digital marketing work a little smarter. My experience spans digital advertising,
-retail media, programmatic, and web hosting and cloud infrastructure.
+Shubham Chauhan is a digital marketer with 5+ years of experience across retail
+media, programmatic, paid search and social, and web hosting and server handling.
 
 ## What I do
 
 - **Plan with purpose:** Connect the channel and campaign setup to the goal.
 - **Get hands-on:** Work across ad platforms, campaign operations, and the
   details that keep things moving.
-- **Mind the foundations:** Bring web hosting and cloud infrastructure
-  experience into the bigger picture.
+- **Mind the foundations:** Bring a practical understanding of the technology
+  that supports digital work.
 
 ## Advertising platforms
 
@@ -21,21 +20,23 @@ retail media, programmatic, and web hosting and cloud infrastructure.
 - **Programmatic:** StackAdapt and Beeswax.
 - **Paid media:** Meta Ads and Google Ads.
 
-## Web hosting and cloud
+## Web hosting and server experience
 
-Hostinger, AWS, Azure, and KloudBean.
+Hands-on experience with Hostinger, AWS, Azure, and KloudBean.
 
 ## Get in touch
 
-Have a campaign, a challenge, or a role you think I’d be a fit for? Reach out
-via [GitHub](https://github.com/theshubhamchauhan). Replace the contact link in
-`index.html` with another public contact method if preferred.
+Have a campaign, a challenge, or a role you think I’d be a fit for?
+
+- Email: [shubham@duckcod.com](mailto:shubham@duckcod.com)
+- LinkedIn: [linkedin.com/in/theshubhamchauhan](https://linkedin.com/in/theshubhamchauhan)
 
 ## About the website
 
 A responsive, static portfolio site for GitHub Pages. It uses plain HTML, CSS,
-and JavaScript, with interactive platform filters and a light/dark theme toggle.
-There is no build step or package installation required.
+and JavaScript, with interactive advertising-platform filters and a light/dark
+theme toggle. Web hosting and cloud experience have a separate section. No build
+step or package installation is required.
 
 ## Publish with GitHub Pages
 
@@ -45,9 +46,7 @@ There is no build step or package installation required.
 
 ## Personalize before publishing
 
-- Update the display name and wording in `index.html`.
-- Replace the GitHub contact link in the contact section with your preferred
-  public contact method.
+- Update the display name and wording in `index.html` if your details change.
 - Review the platform names and experience descriptions for accuracy.
 
 ## Privacy and security
