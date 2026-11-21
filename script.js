@@ -5,7 +5,7 @@ const themeToggle = document.querySelector(".theme-toggle");
 const themeLabel = document.querySelector(".theme-label");
 
 const categoryNames = {
-  all: "all ad platforms",
+  all: "advertising platforms",
   retail: "retail media platforms",
   programmatic: "programmatic platforms",
   paid: "paid media platforms",
@@ -21,7 +21,7 @@ function setFilter(category) {
     if (isVisible) visibleCount += 1;
   });
 
-  filterStatus.textContent = `Showing ${categoryNames[category]} (${visibleCount})`;
+  filterStatus.textContent = `I’ve worked with ${visibleCount} ${categoryNames[category]}.`;
   filterButtons.forEach((button) => {
     const isActive = button.dataset.filter === category;
     button.classList.toggle("is-active", isActive);
